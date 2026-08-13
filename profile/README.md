@@ -1,4 +1,8 @@
-<img src="assets/logo-color.png" alt="AYKIP Digital Studio" width="420">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-color.png">
+  <img alt="AYKIP Digital Studio" src="assets/logo-color.png" width="420">
+</picture>
 
 # AYKIP Digital Studio
 
